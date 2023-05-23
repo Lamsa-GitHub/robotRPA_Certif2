@@ -18,7 +18,7 @@ Order robots from RobotSpareBin Industries Inc
     Download the csv order file
     Get orders
     Create ZIP package from PDF files
-    Close the robot order website
+    [Teardown]    Close the robot order website
 
 
 *** Keywords ***
